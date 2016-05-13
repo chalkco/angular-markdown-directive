@@ -5,7 +5,7 @@
   "dependencies": {
     "angular": "^1.0.8",
     "angular-sanitize": "^1.0.8",
-    "showdown": "chalkco/showdown"
+    "showdown": "chalkco/showdown#master"
   },
   "devDependencies": {
     "angular-mocks": "^1.0.8"
